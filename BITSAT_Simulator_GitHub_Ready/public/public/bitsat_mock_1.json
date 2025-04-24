@@ -1,0 +1,19 @@
+{
+  "Physics": [
+    {
+      "question": "In the figure shown, coefficient of restitution between A and B is 1/2. What is the velocity of B after collision?",
+      "options": [
+        "v/2",
+        "mv\u00b3/4",
+        "mv\u00b2/3",
+        "mv\u00b2/4"
+      ],
+      "answer": 2,
+      "solution": "Using momentum and restitution equations, vB = mv\u00b2/3"
+    }
+  ],
+  "Chemistry": [],
+  "English": [],
+  "Logical Reasoning": [],
+  "Mathematics": []
+}
